@@ -1,0 +1,32 @@
+# === FRONTEND: Vue/Vite/Node ===
+node_modules/
+dist/
+.env
+
+# === BACKEND: PHP/Lumen ===
+vendor/
+.env
+
+# === SSL filer ===
+ssl/
+
+# === IDE og editorfiler ===
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# === Systemfiler og logs ===
+.DS_Store
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# === OS-specifikke ===
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
