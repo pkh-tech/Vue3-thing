@@ -1,7 +1,5 @@
 Okay, things took a turn, started out with a calendar site in mind.... ran into problems, let it rest for a bit, then my focus changed to LLM, and now, this is an LLM site... so.... pivot, and the reason why the folder is named calender
 
-Sure, here's the README content in Markdown format, ready for you to copy and paste.
-
 Project Description
 
 This repository contains a web application that serves as a frontend for a large language model (LLM) based on oobabooga's Text-Generation-WebUI. The application is configured to run through a Caddy reverse proxy server and is designed to maintain context within a conversation.
